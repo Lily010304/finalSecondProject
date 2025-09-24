@@ -29,8 +29,7 @@ The goal of this dashboard is to provide an intuitive interface for answering qu
 ## 🎥 Demo
 
 Here’s a quick demo of the dashboard in action:
-
-![SalesDashboard](https://github.com/user-attachments/assets/7f461265-2f25-4ebe-a492-790d27111ae6)
+![SalesDashboard](https://github.com/user-attachments/assets/1e16450a-c416-4b31-b64f-ea8971cdc3f7)
 
 ---
 
